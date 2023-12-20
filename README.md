@@ -5,14 +5,11 @@
 <p id="description">Um Form feito em HTML, CSS E Bootstrap</p>
 
 Tópicos Abordados:
-- Seleção de Elementos do DOM
-- Event Listeners
-- Manipulação de Classes
-- Local Storage
-- Geração Dinâmica de HTML
-- Lógica de Atualização de Tarefas
-- Edição e Exclusão de Tarefas
-  
+- Estrutura Básica HTML
+- Meta tags
+- Elementos de Conteúdo
+- Classes do Bootstrap
+
 <h2>💻 Built with</h2>
 
 <div align="left">
